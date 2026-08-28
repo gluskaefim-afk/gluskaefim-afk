@@ -17,19 +17,16 @@
 Analysis and optimization of supply chain performance using Python — identifying inefficiencies and modeling improvements across the chain.
 
 ### 📈 [demand-driven-rop-optimizer](https://github.com/gluskaefim-afk/demand-driven-rop-optimizer)
-A model for selecting the optimal Reorder Point (ROP) for a specific Cycle Service Level boundary, built to support inventory decision-making.
+Built a model that calibrates the Reorder Point (ROP) based on historical demand and its distribution, iterating until it satisfies a target Cycle Service Level (95–100%) under the worst-case simulated scenario.
 
 ### 🔍 [Supply-chain-insights](https://github.com/gluskaefim-afk/Supply-chain-insights)
 Exploratory data analysis project surfacing key patterns and insights from supply chain data.
 
 ### 📊 [Visualization-project-for-a-logistics-company](https://github.com/gluskaefim-afk/Visualization-project-for-a-logistics-company)
-A data analysis and visualization project for a fictional logistics company ("Logity"), covering a pet-industry dataset.
+A data analysis and visualization project for a fictional logistics company ("Logity").
 
 ### 🧮 [ABC-XYZ-analyz](https://github.com/gluskaefim-afk/ABC-XYZ-analyz)
 ABC-XYZ inventory classification analysis in Python, used to prioritize stock management by value and demand variability.
-
-### 🛒 [Simple-analytics-project-for-e-commerce](https://github.com/gluskaefim-afk/Simple-analytics-project-for-e-commerce)
-A straightforward analytics project for an online store, combining Python for analysis and Figma for dashboard design.
 
 ---
 
