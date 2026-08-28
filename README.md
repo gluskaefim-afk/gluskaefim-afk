@@ -17,7 +17,7 @@
 Analysis and optimization of supply chain performance using Python — identifying inefficiencies and modeling improvements across the chain.
 
 ### 📈 [demand-driven-rop-optimizer](https://github.com/gluskaefim-afk/demand-driven-rop-optimizer)
-Built a model that calibrates the Reorder Point (ROP) based on historical demand and its distribution, iterating until it satisfies a target Cycle Service Level (95–100%) under the worst-case simulated scenario.
+Built a model that calibrates the Reorder Point (ROP) based on historical demand and its distribution, using Monte Carlo simulation combined with Bootstrap resampling to iteratively calibrate ROP until it satisfies a target Cycle Service Level (95–100%) under the worst-case simulated scenario.
 
 ### 🔍 [Supply-chain-insights](https://github.com/gluskaefim-afk/Supply-chain-insights)
 Exploratory data analysis project surfacing key patterns and insights from supply chain data.
