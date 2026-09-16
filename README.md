@@ -6,7 +6,7 @@
 
 - 🎓 Technical University of Košice — Commercial Logistics (B.Sc, 2nd year)
 - 📊 Core interests: Logistics Analytics, Inventory Optimization, Demand Forecasting, Process Automation
-- 🛠️ Tools: MS Excel, Python (Pandas, NumPy, Matplotlib, Seaborn, Scipy, Prophet, ...), MS Power BI, Tableau, SQL, AnyLogic
+- 🛠️ Tools: MS Excel, Python (Pandas, NumPy, Matplotlib, Seaborn, Scipy, Prophet, ...), MS Power BI, Tableau, SQL
 - 📫 Reach me: gluskaefim@gmail.com
 
 ---
