@@ -20,7 +20,7 @@ Analysis and optimization of supply chain performance using Python — identifyi
 Built a model that calibrates the Reorder Point (ROP) based on historical demand and its distribution, using Monte Carlo simulation combined with Bootstrap resampling to iteratively calibrate ROP until it satisfies a target Cycle Service Level (95–100%) under the worst-case simulated scenario.
 
 ### 🔍 [Supply-chain-insights](https://github.com/gluskaefim-afk/Supply-chain-insights)
-Exploratory data analysis project surfacing key patterns and insights from supply chain data.
+Exploratory data analysis project surfacing key patterns and insights from supply chain data (Old project).
 
 ### 📊 [Visualization-project-for-a-logistics-company](https://github.com/gluskaefim-afk/Visualization-project-for-a-logistics-company)
 A data analysis and visualization project for a fictional logistics company ("Logity").
